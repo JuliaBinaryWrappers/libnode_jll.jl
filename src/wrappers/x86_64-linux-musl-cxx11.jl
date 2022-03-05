@@ -2,13 +2,13 @@
 export libnode, node
 
 JLLWrappers.@generate_wrapper_header("libnode")
-JLLWrappers.@declare_library_product(libnode, "libnode.so.83")
+JLLWrappers.@declare_library_product(libnode, "libnode.so.93")
 JLLWrappers.@declare_executable_product(node)
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libnode,
-        "lib/libnode.so.83",
+        "lib/libnode.so.93",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

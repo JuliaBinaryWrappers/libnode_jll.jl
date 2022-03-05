@@ -1,80 +1,80 @@
 [[libnode]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "79af546070f3af07f32beb3f4cfd75c27c66f6de"
+git-tree-sha1 = "a23bef91d3813ec2201ac5b7d0be79a419b11b91"
 libc = "glibc"
 os = "linux"
 
     [[libnode.download]]
-    sha256 = "bb49dea58e8093b65c7a82b97ea191db01f44e671364030f1324a2d06eb6b8e8"
-    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v14.17.3+0/libnode.v14.17.3.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "42d56e26877067ea6e0a151c7439cce99a39b22c86e8e905227eb03497af6362"
+    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v16.14.0+0/libnode.v16.14.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[libnode]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "60cbc48c7e86b78dcd910bb969a2916847d3ea7a"
+git-tree-sha1 = "47999794ed83363d38ba045802c4bf7597bf7ad3"
 libc = "glibc"
 os = "linux"
 
     [[libnode.download]]
-    sha256 = "e1c7c2fd1be7f6dd5368725452bb21aadc0cca147920ac8d49b0a397e3603de5"
-    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v14.17.3+0/libnode.v14.17.3.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "14ef90c4b53189d85d9f15deaa495ce6212fe500c65b41a6bfcb04541d18c02b"
+    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v16.14.0+0/libnode.v16.14.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[libnode]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3fe9d1ea2e4fe3992a7970faba8184edcd4ebf3e"
+git-tree-sha1 = "21bb9d5657cee22fd2781fd4612aed05e0edc650"
 libc = "musl"
 os = "linux"
 
     [[libnode.download]]
-    sha256 = "0c1fea433035044b3e2f12b30d17db46d6a51e63eb24d65ac1279b3eda66e452"
-    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v14.17.3+0/libnode.v14.17.3.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "8ae6e28ef9617c50482c349b6d5d2052bbc74c3a49326c0ecb84d254db402440"
+    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v16.14.0+0/libnode.v16.14.0.aarch64-linux-musl-cxx03.tar.gz"
 [[libnode]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ad5cfc480e5f03b3935972a39a4135b148074a08"
+git-tree-sha1 = "ecfefad988fccb2782dc1ce1b5fa272c6184169d"
 libc = "musl"
 os = "linux"
 
     [[libnode.download]]
-    sha256 = "573361884610bcb10dbc099f87a6f183526bb0c34a4bf4ed1c71a7c834f94426"
-    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v14.17.3+0/libnode.v14.17.3.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "86a4967dd8aedb24986465d8a07b8600419acbc5b6a17ff2743436eb7b48efe9"
+    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v16.14.0+0/libnode.v16.14.0.aarch64-linux-musl-cxx11.tar.gz"
 [[libnode]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6c25590a6e51bbb56fee3f8157ce46f60c070d26"
+git-tree-sha1 = "538b18a6f0a2ac90fb115ff76b7725813f0671ed"
 libc = "glibc"
 os = "linux"
 
     [[libnode.download]]
-    sha256 = "8bb0a614dd5b010130f36e339f0558057a2b772b55a437d4e4bf65a329e702a4"
-    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v14.17.3+0/libnode.v14.17.3.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "d821ef0ed4f12af7f6bc0649bbae3626728a8e3fbcead18f07790d2a025f2d21"
+    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v16.14.0+0/libnode.v16.14.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[libnode]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "18ad82907cd7fc62b8096d6d5f8dfc9394622077"
+git-tree-sha1 = "ba0554f5887825d9f289fe7d9213a1e0d21f7292"
 libc = "glibc"
 os = "linux"
 
     [[libnode.download]]
-    sha256 = "c4787f35f06fba66ce22de767332be1b5020dc86a1de90ccc14f646d96de70c9"
-    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v14.17.3+0/libnode.v14.17.3.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "4a51eb738a9ada71796378746a97d8ef5fbcfc2ebd056ea88b236e9cc2b0da52"
+    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v16.14.0+0/libnode.v16.14.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[libnode]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "46a499d6ad5d7ab2328bc70c5202282fc9375c85"
+git-tree-sha1 = "d2d65483e798566d55b1c007f020a9f491dc90c4"
 libc = "musl"
 os = "linux"
 
     [[libnode.download]]
-    sha256 = "49e70cbd4ef5f24bb27b49d0a5bd523bcdf0014ebf64aace231fe467bb886411"
-    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v14.17.3+0/libnode.v14.17.3.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "35b76bd74deec5bef886e98bc11148c2db4eed22a36a1dca87a4a983471fd62d"
+    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v16.14.0+0/libnode.v16.14.0.x86_64-linux-musl-cxx03.tar.gz"
 [[libnode]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "41f7a539f7e79f6c46fecdcd0e5101ecbbfd3d0e"
+git-tree-sha1 = "21613af21615e72c51e5e06466592e448cf5fe89"
 libc = "musl"
 os = "linux"
 
     [[libnode.download]]
-    sha256 = "230dbda4f40b9cc8bf5b87fb341e5c2cac3659b1c3dcfb2fa4516a2e1afff5b9"
-    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v14.17.3+0/libnode.v14.17.3.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "c2a4b725789936e829e5d01da13699c1dd60d1ef43d17917cc65ec11ea3795a1"
+    url = "https://github.com/JuliaBinaryWrappers/libnode_jll.jl/releases/download/libnode-v16.14.0+0/libnode.v16.14.0.x86_64-linux-musl-cxx11.tar.gz"
