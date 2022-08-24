@@ -1,6 +1,6 @@
 name = "libnode_jll"
 uuid = "76d26698-d9ba-5ca1-ae24-4ac9393d02a0"
-version = "16.14.0+0"
+version = "16.17.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
